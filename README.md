@@ -273,7 +273,7 @@ O futuro do trabalho será construído por soluções como esta: **tecnologia qu
 ## 🔗 Links Importantes
 
 - **Repositório GitHub:** [[Link do repositório privado]](https://github.com/tiagomartins-s/gs-chat)
-- **Vídeo de Apresentação:** [Link do YouTube - não listado]
+- **Vídeo de Apresentação:** [[Link do YouTube - não listado]](https://youtu.be/1WscN28QR0g)
 
 ---
 
