@@ -1,0 +1,92 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "o pinto é cor de rosa",
+      "timestamp": "2025-11-19T21:53:41.241930",
+      "context": null
+    },
+    {
+      "role": "user",
+      "content": "@ia que cor é o pinto",
+      "timestamp": "2025-11-19T21:53:48.444776",
+      "context": null
+    },
+    {
+      "role": "assistant",
+      "content": "O pinto, que é o nome popular para o órgão sexual masculino de aves, é geralmente de cor avermelhada ou rosada.",
+      "timestamp": "2025-11-19T21:53:51.262161",
+      "context": [
+        {
+          "role": "system",
+          "content": "Você é um assistente útil. Use o contexto fornecido das conversas anteriores para responder à pergunta do usuário de forma precisa e relevante."
+        },
+        {
+          "role": "user",
+          "content": "@ia que cor é o pinto"
+        },
+        {
+          "role": "user",
+          "content": "o pinto é cor de rosa"
+        },
+        {
+          "role": "user",
+          "content": "que cor é o pinto"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": "o pato cleber é laranja",
+      "timestamp": "2025-11-19T21:54:25.069600",
+      "context": null
+    },
+    {
+      "role": "user",
+      "content": "@ia que cor é o cleber?",
+      "timestamp": "2025-11-19T21:54:31.145421",
+      "context": null
+    },
+    {
+      "role": "assistant",
+      "content": "O Cleber é laranja.",
+      "timestamp": "2025-11-19T21:54:33.569387",
+      "context": [
+        {
+          "role": "system",
+          "content": "Você é um assistente útil. Use o contexto fornecido das conversas anteriores para responder à pergunta do usuário de forma precisa e relevante."
+        },
+        {
+          "role": "user",
+          "content": "@ia que cor é o cleber?"
+        },
+        {
+          "role": "user",
+          "content": "o pato cleber é laranja"
+        },
+        {
+          "role": "user",
+          "content": "@ia que cor é o pinto"
+        },
+        {
+          "role": "user",
+          "content": "o pinto é cor de rosa"
+        },
+        {
+          "role": "user",
+          "content": "@ia que cor é o cleber?"
+        },
+        {
+          "role": "user",
+          "content": "que cor é o cleber?"
+        }
+      ]
+    }
+  ],
+  "embedding_to_message_idx": [
+    0,
+    1,
+    3,
+    4
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Estamos em duvida sobre o que fazer no trabalho da global solutions",
+      "timestamp": "2025-11-19T22:44:00.994300",
+      "context": null
+    },
+    {
+      "role": "user",
+      "content": "estou pensando em um sistema de monitoramento inteligente de qualidade do ar",
+      "timestamp": "2025-11-19T22:44:26.547980",
+      "context": null
+    },
+    {
+      "role": "user",
+      "content": "também pensamos em algum jogo com inteligencia artificial para usar de quebra gelo em reunioes",
+      "timestamp": "2025-11-19T22:44:46.844861",
+      "context": null
+    },
+    {
+      "role": "user",
+      "content": "mas decidimos por criar um chat empresarial, que utilizando RAG é capaz de informar aos usuarios qualquer informação ja discutida nas conversas",
+      "timestamp": "2025-11-19T22:45:53.937629",
+      "context": null
+    },
+    {
+      "role": "user",
+      "content": "@ia qual foi a decisão final sobre o que faremos no trabalho da global solutions ",
+      "timestamp": "2025-11-19T22:58:15.060631",
+      "context": null
+    },
+    {
+      "role": "assistant",
+      "content": "A decisão final para o trabalho da Global Solutions foi implementar um chat empresarial que utiliza RAG para fornecer aos usuários informações discutidas nas conversas, além de desenvolver um jogo com inteligência artificial para ser usado como quebra-gelo em reuniões, e também um sistema de monitoramento inteligente da qualidade do ar. Essas soluções visam melhorar a comunicação interna da empresa e oferecer ferramentas inovadoras para o ambiente de trabalho.",
+      "timestamp": "2025-11-19T22:58:18.059440",
+      "context": [
+        {
+          "role": "system",
+          "content": "Você é um assistente útil. Use o contexto fornecido das conversas anteriores para responder à pergunta do usuário de forma precisa e relevante."
+        },
+        {
+          "role": "user",
+          "content": "@ia qual foi a decisão final sobre o que faremos no trabalho da global solutions "
+        },
+        {
+          "role": "user",
+          "content": "Estamos em duvida sobre o que fazer no trabalho da global solutions"
+        },
+        {
+          "role": "user",
+          "content": "mas decidimos por criar um chat empresarial, que utilizando RAG é capaz de informar aos usuarios qualquer informação ja discutida nas conversas"
+        },
+        {
+          "role": "user",
+          "content": "também pensamos em algum jogo com inteligencia artificial para usar de quebra gelo em reunioes"
+        },
+        {
+          "role": "user",
+          "content": "estou pensando em um sistema de monitoramento inteligente de qualidade do ar"
+        },
+        {
+          "role": "user",
+          "content": "qual foi a decisão final sobre o que faremos no trabalho da global solutions"
+        }
+      ]
+    }
+  ],
+  "embedding_to_message_idx": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ]
+}
